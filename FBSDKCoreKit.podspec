@@ -58,5 +58,5 @@ Pod::Spec.new do |s|
   s.requires_arc = ['FBSDKCoreKit/FBSDKCoreKit/*',
                     'FBSDKCoreKit/FBSDKCoreKit/Internal/**/*']
 
-  s.ios.dependency 'Bolts', '~> 1.6'
+  s.ios.dependency 'Bolts', '~> 1.2'
 end
